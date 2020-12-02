@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\bin\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-De-Cadastro-De-Alunos\obj\Debug\netcoreapp3.1\Sistema-De-Cadastro-De-Alunos.genruntimeconfig.cache
